@@ -1,7 +1,21 @@
 # 2018_winter_vacation_study
 
-## How2Heap
+## I . Documentize what I learned in 2018
 
-### 1.fastbin dup into stack 
+### 1 . Make some basic binary for beginner
 
-### 2. house of force
+## II . Exercise How2Heap
+
+### 1 . fastbin dup into stack 
+
+### 2 . house of force
+
+### ... ect
+
+## III . Participate pwnable study
+
+## IV . Participate CTFs
+
+
+
+
